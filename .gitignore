@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+
+#sin imagenes ni fotos
+# dependencies
+/node_modules
